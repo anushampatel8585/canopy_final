@@ -1,0 +1,40 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+# Android generated files
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/build/
+android/.cxx/
+# Signing credentials
+*.jks
+*.keystore
+# Logs
+*.log
+# Temporary icon backups
+icon_backup_20261117/
+new_icon_sizes/
+# Unused root-level design images
+/canopy_icon.png
+/canopy_icon.png.png
+/canopy_new_splash.jpg
+/canopy_new_splash.png.jpeg
+# IDE files
+.idea/
+
+# Backup files
+*.backup
+*.bak
+*.old
+*~
+# Old source backups
+*.backup*
+*.before*
+# IDE metadata
+*.iml

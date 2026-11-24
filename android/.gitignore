@@ -1,0 +1,13 @@
+# Android generated files
+/.gradle/
+/local.properties
+/key.properties
+/captures/
+/GeneratedPluginRegistrant.java
+/app/build/
+/.cxx/
+# Signing credentials
+**/*.jks
+**/*.keystore
+# Flutter-generated files
+**/GeneratedPluginRegistrant.java
